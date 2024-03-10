@@ -26,11 +26,9 @@ to decide on the right course of action. GPT 3.5 has been used here but accordin
 ### Running
 
 1. Use pipenv to install python libraries from requirements.txt (a virtual environemnt is always recommended)
-2. Add environment variable in a .env file to hold Pinecone's and OpenAI's API keys as well as PYTHONPATH for the root directory of the project
-3. The index at Pinecone should have 1536 dimensions and should be of the cosine type for vector matching
-4. Consts.py should be updated with the name of the created Pinecone index
-5. Run ingestion.py to load indexes to Pinecone
-6. Run main.py with the ``` streamlit run <directory to main> ``` command
+2. Add environment variable in a .env file to hold OpenAI's API key
+3. Run main.py file 
+4. Can re-run main.py file with other queries pertaining to python programming and CSV querying
 
 
 ## Acknowledgments
