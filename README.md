@@ -14,6 +14,8 @@ to decide on the right course of action. GPT 3.5 has been used here but accordin
 ## Screenshots
 ![qrcode_screenshot_2](https://github.com/adityabnair/Langchain-agents-code-interpreter/assets/64246274/427a6f5f-9832-4be3-8e82-48ece145036c)
 ![qrcode_screenshot](https://github.com/adityabnair/Langchain-agents-code-interpreter/assets/64246274/190f7b2f-e4f6-4aa2-a9bd-8c4821262f22)
+![image](https://github.com/adityabnair/Langchain-agents-code-interpreter/assets/64246274/bb1f34e4-492b-4030-94d4-be463d496523)
+
 
 
 ## Main Prerequisites
